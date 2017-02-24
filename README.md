@@ -22,15 +22,18 @@
 
 ### Additional Resources
 
-FARS Dataset
+**Understanding Vehicular Fatalities Notebook**
+
+http://tinyurl.com/vehic-analysis
+
+**FARS Dataset**
+
 ftp://ftp.nhtsa.dot.gov/FARS/
 
-FARS Documentation
+**FARS Documentation**
 
 Main page: https://crashstats.nhtsa.dot.gov/#/DocumentTypeList/4
 
 Direct link to manual: https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812315
 
-Understanding Vehicular Fatalities Notebook
 
-http://tinyurl.com/vehic-analysis
