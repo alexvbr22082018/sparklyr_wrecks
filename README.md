@@ -1,9 +1,24 @@
 # sparklyr_wrecks
 
-This repository contains  scripts for:
+### Repository Contents
 
-- Cleaning up FARS data
-- Shiny app exploring FARS data
+`farsDBFtoCSV.R` - Convert FARS .dbf files to .csv
+
+`functions.R` - Functions used in the Shiny app
+
+`mapdata.rds` - Data for creating the choropleth map
+
+`mergeFARSdata.R` - Merge years of FARS data into one dataframe `mod_dat_all`
+
+`mod_dat_all1.Rds` - 1/3 of `mod_dat_all`
+
+`mod_dat_all2.Rds` - Same as above
+
+`mod_dat_all3.Rds` - You get the idea.
+
+`server.R` - Server side script for Shiny app
+
+`ui.R` - User interface script for Shiny app
 
 ### Additional Resources
 
